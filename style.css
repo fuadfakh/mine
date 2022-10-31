@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+#jumbotron {
+  height: 200px;
+  padding-top: 5rem;
+}
+
+.mt-15 {
+  margin-top: 3rem;
+  font-family: poppins;
+}
+
+.navbar-nav {
+  font-size: 18px;
+  font-family: poppins;
+}
+
+#projects {
+  height: 200px;
+}
+
+.mt-5 {
+  margin-top: 200px;
+}
